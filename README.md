@@ -3,7 +3,7 @@
 This project automates Google Dorking, web scraping, and PDF data extraction using AI-generated dorks. 
 It leverages Nous-Hermes-2-Mistral-7B-DPO.Q4_0.gguf (via GPT4All) to generate optimized search queries (dorks) for targeted information gathering, then uses Selenium and PyMuPDF to extract relevant content from web pages and PDFs.
 ## Features
-✅ AI-Powered Google Dork Generation (via Nous-Hermes-2-Mistral-7B-DPO)
+✅ AI-Powered Google Dork Generation (via Nous-Hermes-2-Mistral-7B-DPO) <br>
 ✅ Automated Web Scraping (via Selenium)
 ✅ PDF Text Extraction (via PyMuPDF)
 ✅ Data Storage & Analysis
